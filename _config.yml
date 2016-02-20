@@ -9,7 +9,7 @@
 title: Quick Silver
 email: adm@outlook.in
 description: > # this means to ignore newlines until "baseurl:"
-  I want a free website too!. Mind your clicks, site is under construction.
+  I want a free website too! Mind your clicks, site is under construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://akashmahali.github.io" # the base hostname & protocol for your site
 twitter_username: akashmahali
