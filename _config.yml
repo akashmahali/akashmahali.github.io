@@ -16,3 +16,5 @@ twitter_username: akashmahali
 github_username:  akashmahali
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
